@@ -10,10 +10,10 @@ $ go get github.com/memUsins/golog
 
 ## Adapters
 
-| Adapter                                     | destination         |
-|---------------------------------------------|---------------------|
-| [Console](github.com/memUsins/gologconsole) | Console adapter     |
-| [File](github.com/memUsins/gologfile)       | File (json) adapter |
+| Adapter                                             | destination         |
+|-----------------------------------------------------|---------------------|
+| [Console](https://github.com/memUsins/gologconsole) | Console adapter     |
+| [File](https://github.com/memUsins/gologfile)       | File (json) adapter |
 
 ## Usage
 
