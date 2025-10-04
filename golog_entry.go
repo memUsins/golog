@@ -1,4 +1,4 @@
-package glog
+package golog
 
 import (
 	"encoding/json"

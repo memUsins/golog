@@ -1,4 +1,4 @@
-package glog
+package golog
 
 // Logger core logger interface
 type Logger interface {

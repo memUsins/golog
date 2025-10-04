@@ -1,4 +1,4 @@
-package glog
+package golog
 
 // Level core level declaration
 type Level int
